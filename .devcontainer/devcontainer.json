@@ -1,0 +1,17 @@
+{
+    "name": "Kaggle plus Python",
+    "dockerFile": "Dockerfile",
+    "customizations":{
+        "vscode":{
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-azuretools.vscode-docker",
+                "ms-toolsai.jupyter-hub"
+            ]
+
+
+        }
+    }
+
+}
