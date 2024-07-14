@@ -1,0 +1,6 @@
+ 
+ git commit -m "[Add] index"
+ git push origin master
+
+
+ git add --all
